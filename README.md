@@ -34,7 +34,7 @@ Podreis encontrar el backdoor compilado en cliente\dist
 ## Proximamente:
 
 - Backdoor con menos errores y la parte del directorio actualizada tambien.
-- Boton desde la web para usar la funcion (ya integrada en el codigo) marear, para cambiar el tema durante 60 segundos (en intervalos de 1 segundo) de light a oscuro & el idioma a uno aleatorio.
+- Boton desde la web para usar la funcion (ya integrada en el codigo) marear, para cambiar el tema durante 60 segundos (en intervalos de 1 segundo) de light a oscuro & el idioma a uno aleatorio. -> Agregada en la v2
 - Persistencia (hay que trabajar en evadir el AV).
 
 ## Configuraciones:
