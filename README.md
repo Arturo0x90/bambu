@@ -1,6 +1,9 @@
 # Bambu
 <img src="https://st2.depositphotos.com/6913282/12097/v/600/depositphotos_120975336-stock-illustration-panda-on-a-white-background.jpg" width="400">
 
+<h2>Bambu es un proyecto, al igual que la mayoria de repositorios antiguos, que hice cuando era pequeño, hace muchos años, cuando tenia 15-16. Mis practicas de programacion eran pobres
+pero aprendia mucho sobre seguridad, protocolos, etc..., no obstante, nadie me habia enseñado a programar de forma ordenada ni limpia, hacia lo que podia.
+</h2>
 
 ## **¿Que es bambu?**
 Bambu es un backdoor & troyano para discord, para pruebas y con fines educativos y de entretenimiento.
